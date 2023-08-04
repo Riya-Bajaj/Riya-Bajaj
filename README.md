@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Riya-Bajaj
 - 🌱 I’m currently learning Web development
-- 👀 I’m looking for an internship oppoertunity
+- 👀 Actively looking for full time work opportunities
 
 
 <!---
